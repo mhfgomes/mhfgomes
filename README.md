@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <a href="https://github.com/mhfgomes">
-   <img  width="400em"  src="https://github-readme-stats.vercel.app/api?username=mhfgomes&show_icons=true&theme=dark&hide_border=true" alt="Hanniel github stats" />
+   <img  width="400em"  src="https://github-readme-stats.vercel.app/api?username=mhfgomes&show_icons=true&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/mhfgomes/github-readme-stats">
     <img width="310em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mhfgomes&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" />
