@@ -12,6 +12,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
+<div>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zgpqq1p6ajklf58c9x94o22ut&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zgpqq1p6ajklf58c9x94o22ut&redirect=true)
+</div>
 <br>
 <div>
   <a href="https://instagram.com/mario.hfg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ED088E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
