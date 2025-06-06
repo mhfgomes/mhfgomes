@@ -17,3 +17,4 @@
   <a href="https://instagram.com/mario.hfg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ED088E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/569221225130491905/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zgpqq1p6ajklf58c9x94o22ut&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=zgpqq1p6ajklf58c9x94o22ut&redirect=true)
