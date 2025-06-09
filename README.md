@@ -7,6 +7,9 @@
     <img width="310em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mhfgomes&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" />
   </a>
 </div>
+<div>
+  <p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=zgpqq1p6ajklf58c9x94o22ut&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zgpqq1p6ajklf58c9x94o22ut&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
