@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/mhfgomes">
-   <img  width="400em"  src="https://ghstats.gomes.lol/api?username=mhfgomes&show_icons=true&theme=dark&hide_border=true"/>
+   <img width="50%" src="https://ghs.gomes.lol/api/banner?username=mhfgomes&range=lastmonth&title=ME&subtitle=Last+Month+Stats&show_title=1&show_subtitle=1&items=commits%2Cadditions%2Cdeletions&top=0&w=900&h=240&bg1=%23B05730&bg2=%239C87F5&dir=to-br&text=%23C3C0B6&muted=%23B7B5A9&accent=%23D97757"/>
   </a>
   <a href="https://github.com/mhfgomes/">
-    <img width="310em"  src="https://ghstats.gomes.lol/api/top-langs?username=mhfgomes&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" />
+    <img width="40%" src="https://ghs.gomes.lol/api/languages-banner?username=mhfgomes&top=8&w=900&h=300&bg1=%23B05730&bg2=%239C87F5&dir=to-br&text=%23C3C0B6&muted=%23B7B5A9" />
   </a>
 </div>
 <div>
