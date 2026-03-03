@@ -3,9 +3,10 @@
 <p>
   <a href="https://spotistats.gomes.lol/">
     <img
+      width="90.5%"
+      loading="lazy"
       alt="Now playing"
       src="https://spotistats.gomes.lol/api/now-playing/j97132y5xqh58cwkpzrb4qj7qh822n9e?theme=claude"
-      width="100%"
     />
   </a>
 </p>
@@ -13,16 +14,18 @@
 <p>
   <a href="https://ghs.gomes.lol/">
     <img
+      width="50%"
+      loading="lazy"
       alt="ME — Last Month Stats"
       src="https://ghs.gomes.lol/api/banner?username=mhfgomes&range=lastmonth&title=ME&subtitle=Last+Month+Stats&show_title=1&show_subtitle=1&items=commits%2Cadditions%2Cdeletions&top=0&w=900&h=240&bg1=%23B05730&bg2=%239C87F5&dir=to-br&text=%23C3C0B6&muted=%23B7B5A9&accent=%23D97757"
-      width="59%"
     />
   </a>
   <a href="https://ghs.gomes.lol/">
     <img
+      width="40%"
+      loading="lazy"
       alt="Top languages"
       src="https://ghs.gomes.lol/api/languages-banner?username=mhfgomes&top=8&w=900&h=300&bg1=%23B05730&bg2=%239C87F5&dir=to-br&text=%23C3C0B6&muted=%23B7B5A9"
-      width="40%"
     />
   </a>
 </p>
@@ -30,16 +33,18 @@
 <p>
   <a href="https://spotistats.gomes.lol/">
     <img
+      width="45%"
+      loading="lazy"
       alt="Top artists"
       src="https://spotistats.gomes.lol/api/card/j97132y5xqh58cwkpzrb4qj7qh822n9e?type=artists&theme=claude&range=long_term"
-      width="49%"
     />
   </a>
   <a href="https://spotistats.gomes.lol/">
     <img
+      width="45%"
+      loading="lazy"
       alt="Top tracks"
       src="https://spotistats.gomes.lol/api/card/j97132y5xqh58cwkpzrb4qj7qh822n9e?type=tracks&theme=claude&range=long_term"
-      width="49%"
     />
   </a>
 </p>
