@@ -10,7 +10,6 @@
     />
   </a>
 </p>
-
 <p>
   <a href="https://ghs.gomes.lol/">
     <img
@@ -29,7 +28,6 @@
     />
   </a>
 </p>
-
 <p>
   <a href="https://spotistats.gomes.lol/">
     <img
