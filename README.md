@@ -17,7 +17,7 @@
 
   <!-- Live Stats Banner from ghs.gomes.lol -->
   <a href="https://ghs.gomes.lol">
-    <img src="https://ghs.gomes.lol/api/banner?username=mhfgomes&range=last7&bg1=1f1a24&bg2=29232d&accent=a3004c&text=f9f8fb&muted=e7d0dd" alt="Live Weekly Activity" width="100%" />
+    <img src="https://ghs.gomes.lol/api/banner?username=mhfgomes&range=last7&show_title=1&show_subtitle=1&items=commits%2Cadditions%2Cdeletions&top=3&w=900&h=240&bg1=%231f1a24&bg2=%2329232d&dir=to-br&text=%23f9f8fb&muted=%23e7d0dd&accent=%23a3004c" alt="Live Weekly Activity" width="100%" />
   </a>
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
   <a href="https://ghs.gomes.lol">
-    <img src="https://ghs.gomes.lol/api/languages-banner?username=mhfgomes&bg1=1f1a24&bg2=29232d&text=f9f8fb&muted=e7d0dd&top=6" alt="Language Distribution" width="100%" />
+    <img src="https://ghs.gomes.lol/api/languages-banner?username=mhfgomes&w=900&h=300&bg1=%231f1a24&bg2=%2329232d&dir=to-br&text=%23f9f8fb&muted=%23e7d0dd&top=6" alt="Language Distribution" width="100%" />
   </a>
 </div>
 
