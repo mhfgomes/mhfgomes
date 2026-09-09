@@ -17,7 +17,7 @@
 
   <!-- Live Stats Banner from ghs.gomes.lol -->
   <a href="https://ghs.gomes.lol">
-    <img src="https://ghs.gomes.lol/api/banner?username=mhfgomes&range=last7&bg1=09090b&bg2=18181b&accent=10b981&text=ffffff&muted=a1a1aa" alt="Live Weekly Activity" width="100%" />
+    <img src="https://ghs.gomes.lol/api/banner?username=mhfgomes&range=last7&bg1=1f1a24&bg2=29232d&accent=a3004c&text=f9f8fb&muted=e7d0dd" alt="Live Weekly Activity" width="100%" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 <table width="100%">
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:sparkles.svg?color=%2310b981" width="22" height="22" alt="GitHubStats" />
+      <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a3004c" width="22" height="22" alt="GitHubStats" />
     </td>
     <td>
       <a href="https://ghs.gomes.lol/"><b>GitHubStats</b></a> — <sub>Activity metrics & SVG banner generator.</sub><br />
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:music.svg?color=%2310b981" width="22" height="22" alt="SpotiStats" />
+      <img src="https://api.iconify.design/lucide:music.svg?color=%23a3004c" width="22" height="22" alt="SpotiStats" />
     </td>
     <td>
       <a href="https://spotistats.gomes.lol/"><b>SpotiStats</b></a> — <sub>Spotify listening insights & top tracks breakdown.</sub><br />
@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:clock.svg?color=%2310b981" width="22" height="22" alt="OvertimeTracker" />
+      <img src="https://api.iconify.design/lucide:clock.svg?color=%23a3004c" width="22" height="22" alt="OvertimeTracker" />
     </td>
     <td>
       <a href="https://ott.gomes.lol/"><b>OvertimeTracker</b></a> — <sub>Work hours and overtime tracking for developers.</sub><br />
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:apple.svg?color=%2310b981" width="22" height="22" alt="MacDrop" />
+      <img src="https://api.iconify.design/lucide:apple.svg?color=%23a3004c" width="22" height="22" alt="MacDrop" />
     </td>
     <td>
       <a href="https://github.com/mhfgomes/macdrop"><b>MacDrop</b></a> — <sub>Custom aerial live wallpapers & screensavers for macOS.</sub><br />
@@ -86,7 +86,7 @@
 
 <div align="center">
   <a href="https://ghs.gomes.lol">
-    <img src="https://ghs.gomes.lol/api/languages-banner?username=mhfgomes&bg1=09090b&bg2=18181b&text=ffffff&muted=a1a1aa&top=6" alt="Language Distribution" width="100%" />
+    <img src="https://ghs.gomes.lol/api/languages-banner?username=mhfgomes&bg1=1f1a24&bg2=29232d&text=f9f8fb&muted=e7d0dd&top=6" alt="Language Distribution" width="100%" />
   </a>
 </div>
 
