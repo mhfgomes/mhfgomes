@@ -92,6 +92,20 @@
 
 <br />
 
+### 🎵 Listening Activity
+
+<div align="center">
+  <a href="https://spotistats.gomes.lol/">
+    <img src="https://spotistats.gomes.lol/api/now-playing/j97132y5xqh58cwkpzrb4qj7qh822n9e?theme=t3" alt="Now Playing on Spotify" width="100%" />
+  </a>
+  <br /><br />
+  <a href="https://spotistats.gomes.lol/">
+    <img src="https://spotistats.gomes.lol/api/card/j97132y5xqh58cwkpzrb4qj7qh822n9e?type=compact&theme=t3&range=short_term&v=1" alt="Spotify Listening Stats" width="560" />
+  </a>
+</div>
+
+<br />
+
 <details>
   <summary><b>Homelab & Hardware Details</b></summary>
   <br />
