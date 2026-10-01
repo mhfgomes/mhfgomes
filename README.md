@@ -100,7 +100,7 @@
   </a>
   <br /><br />
   <a href="https://spotistats.gomes.lol/">
-    <img src="https://spotistats.gomes.lol/api/card/j97132y5xqh58cwkpzrb4qj7qh822n9e?type=compact&theme=t3&range=short_term" alt="Spotify Listening Stats" width="560" />
+    <img src="https://spotistats.gomes.lol/api/card/j97132y5xqh58cwkpzrb4qj7qh822n9e?type=compact&theme=t3&range=short_term&font=geist" alt="Spotify Listening Stats" width="560" />
   </a>
 </div>
 
