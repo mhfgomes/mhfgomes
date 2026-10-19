@@ -37,7 +37,7 @@ Software engineer based in Portugal, building fast web applications, native desk
 <table width="100%">
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a3004c" width="22" height="22" alt="GitHubStats" />
+      <img src="assets/icons/sparkles.svg" width="22" height="22" alt="GitHubStats" />
     </td>
     <td>
       <a href="https://ghs.gomes.lol/"><b>GitHubStats</b></a> — <sub>GitHub activity metrics and SVG banner generator.</sub><br />
@@ -50,7 +50,7 @@ Software engineer based in Portugal, building fast web applications, native desk
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:music.svg?color=%23a3004c" width="22" height="22" alt="SpotiStats" />
+      <img src="assets/icons/music.svg" width="22" height="22" alt="SpotiStats" />
     </td>
     <td>
       <a href="https://spotistats.gomes.lol/"><b>SpotiStats</b></a> — <sub>Spotify listening stats and top tracks.</sub><br />
@@ -63,7 +63,7 @@ Software engineer based in Portugal, building fast web applications, native desk
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:clock.svg?color=%23a3004c" width="22" height="22" alt="OvertimeTracker" />
+      <img src="assets/icons/clock.svg" width="22" height="22" alt="OvertimeTracker" />
     </td>
     <td>
       <a href="https://ott.gomes.lol/"><b>OvertimeTracker</b></a> — <sub>Work hours and overtime tracking.</sub><br />
@@ -76,7 +76,7 @@ Software engineer based in Portugal, building fast web applications, native desk
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:apple.svg?color=%23a3004c" width="22" height="22" alt="MacDrop" />
+      <img src="assets/icons/apple.svg" width="22" height="22" alt="MacDrop" />
     </td>
     <td>
       <a href="https://github.com/mhfgomes/macdrop"><b>MacDrop</b></a> — <sub>Custom aerial live wallpapers for macOS.</sub><br />
@@ -89,7 +89,7 @@ Software engineer based in Portugal, building fast web applications, native desk
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:tag.svg?color=%23a3004c" width="22" height="22" alt="FastRenamer" />
+      <img src="assets/icons/tag.svg" width="22" height="22" alt="FastRenamer" />
     </td>
     <td>
       <a href="https://github.com/mhfgomes/fastrenamer"><b>FastRenamer</b></a> — <sub>Desktop batch file renaming utility.</sub><br />
@@ -102,7 +102,7 @@ Software engineer based in Portugal, building fast web applications, native desk
   </tr>
   <tr>
     <td width="42" align="center" valign="middle">
-      <img src="https://api.iconify.design/lucide:mic.svg?color=%23a3004c" width="22" height="22" alt="KaraokeThing" />
+      <img src="assets/icons/mic.svg" width="22" height="22" alt="KaraokeThing" />
     </td>
     <td>
       <a href="https://github.com/mhfgomes/KaraokeThing"><b>KaraokeThing</b></a> — <sub>Private karaoke app for parties on your home network.</sub><br />
