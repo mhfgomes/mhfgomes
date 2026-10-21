@@ -130,11 +130,11 @@ Software engineer based in Portugal, building fast web applications, native desk
 ### 🎵 Listening Activity
 
 <div align="center">
-  <a href="https://spotistats.gomes.lol/">
+  <a href="https://spotistats.gomes.lol/u/mhfgomes">
     <img src="https://spotistats.gomes.lol/api/now-playing/j97132y5xqh58cwkpzrb4qj7qh822n9e?theme=t3" alt="Now Playing on Spotify" width="100%" />
   </a>
   <br /><br />
-  <a href="https://spotistats.gomes.lol/">
+  <a href="https://spotistats.gomes.lol/u/mhfgomes">
     <img src="https://spotistats.gomes.lol/api/card/j97132y5xqh58cwkpzrb4qj7qh822n9e?type=compact&theme=t3&range=short_term&font=geist" alt="Spotify Listening Stats" width="560" />
   </a>
 </div>
